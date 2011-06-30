@@ -1,0 +1,288 @@
+body {
+    background: #111!important
+}
+
+#ALL-content {
+    padding: 15px!important
+}
+
+#comments-post-form textarea, .comments-reply-form textarea {
+    -webkit-appearance: none!important;
+    background: #222!important;
+    border: 1px solid #444!important;
+    color: #eee!important;
+    max-width: 628px!important;
+    padding: 5px!important;
+    width: 628px!important;
+}
+
+#content-container {
+    margin-top: 20px!important
+}
+
+#content.watch-wide #watch-main {
+    padding: 0 10px 13px!important
+}
+
+#content.watch-wide #watch-video-container {
+    background: #080808!important
+}
+
+#content.watch-wide #watch-sidebar {
+    margin-top: 10px!important
+}
+
+#dragdrop {
+    overflow: visible!important
+}
+
+#feedmodule-ALL {
+    background: #222!important;
+    overflow: visible!important;
+}
+
+#logo {
+    background: url('file:///C:/Users/Owners/Desktop/Web%20Folder/uTube.png') 18px 10px no-repeat!important
+}
+
+#masthead-expanded {
+    background: #222!important;
+    border: none!important;
+}
+
+.yt-uix-slider-shade-left, .yt-uix-slider-shade-right, #masthead-expanded-menu-shade, #masthead-expanded-lists-container, #masthead-expanded .light-lolz .playlist-bar-item.system.last {
+    background: none!important;
+    border: none!important;
+    outline: none!important;
+}
+
+#masthead-expanded .playlist-thumb-section {
+    box-shadow: none!important
+}
+
+#masthead-expanded .list-title {
+    border: none!important;
+    color: #eee!important;
+}
+
+#masthead-container, #masthead-utility a, #masthead-expanded .playlist-data-section, .feedmodule-single-form-item, .fm-title-underlined, #homepage-whats-new .module-title, .homepage-side-block .module-title {
+    border: none!important
+}
+
+#masthead-expanded-lists-container.light-lolz .yt-uix-button, .yt-uix-slider.spotlight-collection .yt-uix-slider-next, .yt-uix-slider.spotlight-collection .yt-uix-slider-prev, #ytg-fl browse-bg-gradient {
+    background: none!important;
+    border: none!important;
+}
+
+#masthead-search input {
+    -webkit-appearance: none!important;
+    background: #080808!important;
+    border: none!important;
+    color: #FFF!important;
+    margin-top: 2px!important;
+}
+
+#masthead-search label {
+    border-color: #444!important
+}
+
+#masthead-subnav {
+    background: -webkit-linear-gradient(center top , #333, #222) repeat scroll 0 0 transparent!important;
+    border-bottom: 1px solid #333!important;
+    border-top: 1px solid #333!important;
+}
+
+#masthead-subnav a {
+    color: #FFF!important
+}
+
+#masthead-user-expander .yt-uix-expander-head {
+    -webkit-box-shadow: none!important;
+    background: -webkit-linear-gradient(top, #444, #333)!important;
+    border: none!important;
+    border-top: 1px solid rgba(255,255,255,0.2)!important;
+    color: #FFF!important;
+    padding-left: 10px!important;
+    padding-right: 10px!important;
+}
+
+#user-navbar {
+    -webkit-border-radius: 3px 3px 0 0!important;
+    background: -webkit-linear-gradient(top, #3d3d3d, #222)!important;
+    border-top: 1px solid #555!important;
+    position: relative!important;
+    top: -3px!important;
+}
+
+#watch-actions {
+    background: #222!important;
+    left: 0!important;
+    padding: 7px!important;
+    position: absolute!important;
+    top: 0!important;
+    width: 1026px!important;
+}
+
+#watch-actions-area {
+    background: rgba(80,80,80,0.99)!important;
+    border: 1px solid rgba(255,255,255,0.2)!important;
+    color: #bbb!important;
+    position: absolute!important;
+    z-index: 100!important;
+}
+
+#watch-headline .watch-expander-head {
+    padding: 4px!important
+}
+
+#watch-description .expand .yt-uix-button, #watch-description .collapse .yt-uix-button, #watch-description .expand, #watch-description .collapse {
+    background: #181818!important
+}
+
+#watch-headline-container {
+    background: #111!important;
+    border: none!important;
+}
+
+#watch-headline-title {
+    font: 30px arial!important
+}
+
+#watch-info {
+    margin-top: 40px!important
+}
+
+#watch-main {
+    background: #191919!important;
+    padding: 10px 10px 13px!important;
+    position: relative!important;
+    width: 1020px!important;
+}
+
+#watch-player {
+    margin: 0 auto!important
+}
+
+#watch-sidebar {
+    background: #222!important;
+    border-top: 3px solid #8B0000!important;
+    margin-right: -10px!important;
+    margin-top: 0px!important;
+    position: relative!important;
+    top: 33px!important;
+    width: 340px!important;
+}
+
+#watch-sidebar .watch-module-body {
+    background: none!important;
+    padding: 8px!important;
+}
+
+#watch-sidebar .title {
+    color: #0271C5!important
+}
+
+#watch-video-container {
+    background: #111!important;
+    border: none!important;
+    padding: 10px 0!important;
+}
+
+.browse-bg-gradient, #page.search-movies-browse #content-container {
+    background: none!important;
+    border: none!important;
+}
+
+.browse-entity-section li {
+    color: #FFD700!important;
+    font-style: italic!important;
+}
+
+.character-list .actor-name {
+    color: #FFD700!important
+}
+
+.character-list li {
+    border: none!important;
+    height: 1.5em!important;
+}
+
+.comments-post-count input, .comment-list .comment:hover, .comment-list .comment.highlighted, .comment-list .author-viewing, #content, .character-list li span {
+    background: none!important
+}
+
+.feedmodule-smtitle {
+    color: #ccc!important;
+    font: 16px arial!important;
+}
+
+hr, #movie-notification-bar, #masthead_child_div, .feedmodule-smtitle img.feed_icon_img, #masthead-expanded #howto-addto, #watch-video-count .yt-uix-expander-arrow, #watch-description-fadeout {
+    display: none!important
+}
+
+.ux-thumb, .ux-thumb-128, .ux-thumb-288, .ux-thumb-224, .ux-thumb-184, .ux-thumb-96, .ux-thumb-64, .ux-thumb-60, .ux-thumb-36, .ux-thumb-29, .ux-thumb-26, .ux-thumb-126, .ux-thumb-169, .ux-thumb-279, .ux-thumb-527, .ux-thumb-77, .ux-thumb-profile-77, .ux-thumb-66, .ux-thumb-50, .playlist-extra-thumb-outer, .playlist-extra-thumb-inner {
+    background: #444!important;
+    border: 1px solid #5b5b5b!important;
+}
+
+.watch-module {
+    margin: 0!important
+}
+
+.yt-uix-button, #watch-video-count .watch-expander-head, #user-navbar-sections li a {
+    -webkit-box-shadow: none!important;
+    background: -webkit-linear-gradient(top, #444, #333)!important;
+    border: none!important;
+    border-top: 1px solid rgba(255,255,255,0.2)!important;
+    color: #FFF!important;
+}
+
+.yt-uix-button:hover, #watch-video-count .watch-expander-head:hover, #user-navbar-sections .current a, .yt-uix-pager .yt-uix-pager-selected, .yt-uix-button:active, #watch-video-count .watch-expander-head:active {
+    background: -webkit-linear-gradient(top, #D11313, #AD0F0F)!important;
+    border-top: 1px solid #E51414!important;
+}
+
+.yt-uix-slider.browse-collection .pager-info {
+    background: -webkit-linear-gradient(top, #444, #333)!important;
+    border: none!important;
+    border-top: 1px solid rgba(255,255,255,0.2)!important;
+    line-height: 24px!important;
+}
+
+.yt-uix-slider.browse-collection .yt-uix-pager {
+    background: #111!important;
+    border: none!important;
+}
+
+a {
+    background: none!important;
+    border: none!important;
+    color: #0271C5!important;
+    outline: none!important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    border: none!important;
+    color: #ddd!important;
+}
+
+li[itemprop="director"], li[itemprop="producer"] {
+    color: #A7D943!important
+}
+
+p, span {
+    color: #eee!important
+}
+
+#yt-admin {
+color: white!important;
+background: #222!important;
+}
+
+.input-section input, .input-section textarea, .input-section select {
+-webkit-appearance: none!important;
+border: 1px solid #3f3f3f!important;
+background: #333!important;
+color: #ddd!important;
+padding: 5px!important;
+}
